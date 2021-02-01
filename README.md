@@ -1,8 +1,10 @@
-# Inter-American Development Bank
+# ARGENTINA
 
-## OPEN Integrated Economic-Environmental Modeling (OPEN IEEM) Platform
+**Inter-American Development Bank**
 
-## The Integrated Economic-Environmental Modeling Platform + Ecosystem Services Modeling (IEEM+ESM) data packet: Overview and guidelines for use
+**OPEN Integrated Economic-Environmental Modeling (OPEN IEEM) Platform**
+
+**The Integrated Economic-Environmental Modeling Platform + Ecosystem Services Modeling (IEEM+ESM) data packet: Overview and guidelines for use**
 
 | **Description**                      | **Links** |
 | :--- | :---: |
@@ -756,7 +758,3 @@ Version 14 Junio 2015.
 <a name="footnote2">[2]</a>: FAO fertilizer application data were unavailable for Haiti, so we
 used values for Bolivia–the country in region with the lowest reported
 fertilizer levels–as a placeholder until Haitian data can be obtained.
-
-*If you find an error in the data packet or have better national-scale
-data sources to add, please use the “Contact us” link on the IEEM
-website.*
